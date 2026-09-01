@@ -49,10 +49,59 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
+Calculator.js
 
+```
+import React from 'react';
+import Calculator from './Calculator';
+
+function App() {
+  return (
+    <div className="App">
+      <Calculator />
+    </div>
+  );
+}
+
+export default App;
+```
+app.css
+
+```
+import React from 'react';
+import Calculator from './Calculator';
+
+function App() {
+  return (
+    <div className="App">
+      <Calculator />
+    </div>
+  );
+}
+
+export default App;
+```
+
+App.js
+
+```
+import React from 'react';
+import Calculator from './Calculator';
+
+function App() {
+  return (
+    <div className="App">
+      <Calculator />
+    </div>
+  );
+}
+
+export default App;
+```
 
 ## OUTPUT
 
+![alt text](image.png)
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
